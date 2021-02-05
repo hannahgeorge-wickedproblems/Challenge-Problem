@@ -5,4 +5,5 @@ intro, picture, https
 
 ## Informal responses
 
-[challenge problem](...)
+[challenge problem](https://hannahgeorge-wickedproblems.github.io/data100repository/challenge1.html)
+
