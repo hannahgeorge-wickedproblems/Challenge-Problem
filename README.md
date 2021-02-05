@@ -5,6 +5,7 @@ I am a first year student here at the College of William and Mary, and I am orig
 
 ## Informal responses
 [class example](https://hannahgeorge-wickedproblems.github.io/data100repository/Challenge1.html)
+[challenge problem](https://hannahgeorge-wickedproblems.github.io/data100repository/challenge_problem_plot.html)
 
 
 
