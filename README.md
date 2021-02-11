@@ -15,7 +15,8 @@ My family is adopting a third dog soon, and it will be a bernendoodle (mix of a 
 ## Informal responses
 [class example](https://hannahgeorge-wickedproblems.github.io/data100repository/Challenge1.html)
 [challenge problem](https://hannahgeorge-wickedproblems.github.io/data100repository/hgchallengeproblem.html)
-[data100_project1]
+[data100_project1](https://hannahgeorge-wickedproblems.github.io/data100repository/data100_project1.html)
+
 
 
 
