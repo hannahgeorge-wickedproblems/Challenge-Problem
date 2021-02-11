@@ -6,11 +6,6 @@ My name is Hannah George. I am a first year student here at the College of Willi
 ![](hgmc.png)
 
 
-My oldest dog, Mogul, is to my left. He is 9 years old.
-My younger dog, Charlie, is to my right. She is 5 years old.
-They are both labradoodles!
-My family is adopting a third dog soon, and it will be a bernendoodle (mix of a bernese mtn dog with a poodle).
-
 
 ## Informal responses
 [class example](https://hannahgeorge-wickedproblems.github.io/data100repository/Challenge1.html)
