@@ -9,8 +9,10 @@ My name is Hannah George. I am a first year student here at the College of Willi
 
 ## Informal responses
 [class example](https://hannahgeorge-wickedproblems.github.io/data100repository/Challenge1.html)
+
 [challenge problem](https://hannahgeorge-wickedproblems.github.io/data100repository/hgchallengeproblem.html)
-[data100_project1](https://hannahgeorge-wickedproblems.github.io/data100repository/data100_project1.html)
+
+[Project_1](https://hannahgeorge-wickedproblems.github.io/data100repository/data100_project1.html)
 
 
 
