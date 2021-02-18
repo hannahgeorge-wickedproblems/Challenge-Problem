@@ -1,4 +1,4 @@
-Plot and labels for administrative subdivision of Malta.
+Plot and labels for administrative subdivisions of Malta.
 
-![](malta.png)
+![](MALTAPLOT.png)
 
