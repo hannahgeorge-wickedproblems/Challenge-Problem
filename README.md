@@ -12,7 +12,7 @@ My name is Hannah George. I am a first year student here at the College of Willi
 
 [challenge problem](https://hannahgeorge-wickedproblems.github.io/data100repository/hgchallengeproblem.html)
 
-[Project 1](https://hannahgeorge-wickedproblems.github.io/data100repository/data100_project1.html)
+[Project 1](https://hannahgeorge-wickedproblems.github.io/data100repository/Project1.html)
 
 
 
