@@ -14,6 +14,7 @@ My name is Hannah George. I am a first year student here at the College of Willi
 
 [Stretch Goal 2](https://hannahgeorge-wickedproblems.github.io/data100repository/Rplot08.html)
 
+
 ## INFORMAL RESPONSES 
 [Informal Response 1](https://hannahgeorge-wickedproblems.github.io/data100repository/InformalResponse1.html)
 
