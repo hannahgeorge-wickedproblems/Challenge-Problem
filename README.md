@@ -8,9 +8,9 @@ My name is Hannah George. I am a first year student here at the College of Willi
 
 
 ## PROJECTS
-[challenge problem](https://hannahgeorge-wickedproblems.github.io/data100repository/hgchallengeproblem.html)
+[Challenge Problem](https://hannahgeorge-wickedproblems.github.io/data100repository/hgchallengeproblem.html)
 
-[Project 1](https://hannahgeorge-wickedproblems.github.io/data100repository/Project1.html)
+[Project 1 Deliverable](https://hannahgeorge-wickedproblems.github.io/data100repository/Project1.html)
 
 [Stretch Goal 2](https://github.com/hannahgeorge-wickedproblems/data100repository/StretchGoal2.html)
 
