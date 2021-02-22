@@ -4,4 +4,4 @@ Plot and labels for administrative subdivisions of Malta.
 
 Stretch Goal 2
 
-![](Rplot08.png)
+![](tramuntana.png)
