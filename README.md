@@ -12,7 +12,7 @@ My name is Hannah George. I am a first year student here at the College of Willi
 
 [Project 1 Deliverable](https://hannahgeorge-wickedproblems.github.io/data100repository/Project1.html), [Stretch Goal 2](https://hannahgeorge-wickedproblems.github.io/data100repository/StretchGoal2.html)
 
-[Project 2 Deliverable]()
+[Project 2 Deliverable](https://github.com/hannahgeorge-wickedproblems/data100repository/blob/main/project2.html)
 
 
 ## INFORMAL RESPONSES 
