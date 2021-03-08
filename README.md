@@ -17,6 +17,7 @@ My name is Hannah George. I am a first year student here at the College of Willi
 
 ## INFORMAL RESPONSES 
 [Informal Response 1](https://hannahgeorge-wickedproblems.github.io/data100repository/InformalResponse1.html)
+[Informal Response 2] ()
 
 
 
