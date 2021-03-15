@@ -1,5 +1,5 @@
 ###
 
 ![](loghist.png)
-![](nlthist.png)
+![](slopehist.png)
 ![](linregress.png)
