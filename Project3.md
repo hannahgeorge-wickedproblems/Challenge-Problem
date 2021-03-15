@@ -1,4 +1,4 @@
-###
+# Project 3: Acquiring, Modifying, and Describing the Data: Malta
 
 ![](loghist.png)
 ![](slopehist.png)
