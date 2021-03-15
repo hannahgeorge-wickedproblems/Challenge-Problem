@@ -2,4 +2,5 @@
 
 ![](loghist.png)
 ![](slopehist.png)
-![](linregress.png)
+![](ntlvspop.png)
+![](wtr.png)
