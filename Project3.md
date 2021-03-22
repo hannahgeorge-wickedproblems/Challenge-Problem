@@ -4,9 +4,9 @@
 ![](loghist.png)
 ![](slopehist.png)
 
-# Regression Lines and Confidence Intervals
+# Explaining the Relationship between Population and other Variables with Estimated Regression Models 
 ![](ntlvspop.png)
-![](sum.png)
+![](sum.png) 
 ![](wtr.png)
 ![](fit.png)
 ![](call.png)
