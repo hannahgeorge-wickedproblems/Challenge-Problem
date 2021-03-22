@@ -13,6 +13,6 @@
 #### As seen in the summary, the calculated R^2 value is approximately 0.391
 ![](sum.png)
 #### The linear regression model demonstrates the relationship between Malta's population density and water. 
-![](wtr.png
+![](wtr.png)
 ![](fit.png)
 ![](call.png)
