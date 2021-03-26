@@ -31,7 +31,7 @@ Who was Haile Sellasie?  According to Barder (and Kapuscinski), how did Ethiopia
 
 Haile Sellasie was a leader of Ethiopia after World War II who sought to launch Ethiopia into progressive development. During the time of the emperor, Ethiopia tried to manufacture a product that was abundant, but they never produced any of it. This failure came as a result of the fact that economic models did not account for the context but worked to fit a larger, broader scale. Furthermore, the dynamics in Ethiopia made it such that the country hasn’t experienced a rapid change to a more complex, self-organized system because they preserve the power in the hands of the elites. 
 
-Why did Barder recommend resisting engineering asd a policy implication>? What did he mean by iso-morphic mimicry?
+Why did Barder recommend resisting engineering asd a policy implication? What did he mean by iso-morphic mimicry?
 
 
 
@@ -39,6 +39,6 @@ Barder suggests that it is nearly impossible to engineer solutions in a complex 
 
 What does Barder mean by “resist fatalism”? Who was Normal Borlaug and what is the green revolution?
 
-Barder’s second policy conclusion from his analysis is to resist fatalism. We don’t have to accept the outcome of the changes because we have the capability to improve innovation and actively choose the functioning microprocesses that are giving us the best possible outcome.  
+Barder’s second policy conclusion from his analysis is to resist fatalism. We don’t have to accept the outcome of the changes because we have the capability to improve innovation and actively choose the functioning microprocesses that are giving us the best possible outcome.  Norman Borlaug was an economist who introduced the fundamental aspect of technical change in developing countries particularly working in the development of food production, and this movement was termed the Green Revolution. 
 
 
