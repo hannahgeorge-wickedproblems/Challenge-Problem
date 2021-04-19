@@ -1,0 +1,5 @@
+![](diff_logpop.png)
+![](diff.sums.png)
+![](population.log.png)
+![](population_sums.png)
+![](population sums)
