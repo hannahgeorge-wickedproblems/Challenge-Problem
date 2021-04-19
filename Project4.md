@@ -2,4 +2,4 @@
 ![](diff.sums.png)
 ![](population.log.png)
 ![](population_sums.png)
-![](population sums)
+![](population.sums.png)
