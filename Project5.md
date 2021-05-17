@@ -17,4 +17,4 @@
 
 ![](finald.png)
 
-![](finaldeliv.png)
+
