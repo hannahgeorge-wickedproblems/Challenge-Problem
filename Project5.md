@@ -2,10 +2,17 @@
 ## Accessibility 1: De facto description of human settlements and urban areas
 
 
-![](p5.png)      ![](melliea.png)
+![](p5.png)   
 
-![](combined.png)
+
+![](urbanizedma.png)
+
+![](urbanizedboth.png)
 
 ![](finald.png)
 
 ![](finaldeliv.png)
+
+![](roads.png)
+
+![](healthcare.png)
