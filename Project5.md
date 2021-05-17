@@ -9,10 +9,12 @@
 
 ![](urbanizedboth.png)
 
-![](finald.png)
-
-![](finaldeliv.png)
 
 ![](roads.png)
 
 ![](healthcare.png)
+
+
+![](finald.png)
+
+![](finaldeliv.png)
